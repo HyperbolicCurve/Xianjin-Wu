@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Xianjin-Wu</h1>
 <h3 align="center">an undergraduate student in School of Artificial Intelligence and Automation, Huazhong University of Science and Technology.</h3>
 
-- 🔭 I’m currently working on [Computer Version](null)
+- 🔭 I’m currently working on [Computer Version](https://github.com/Xianjin-Wu/CNN_Learning)
 
 - 🌱 I’m currently learning **SmartCar,Robotics,CV**
 
-- 👯 I’m looking to collaborate on [Smart Car](null)
+- 👯 I’m looking to collaborate on [Smart Car](https://github.com/Xianjin-Wu/Smart_Car)
 
-- 🤝 I’m looking for help with [Robotics](null)
+- 🤝 I’m looking for help with [Robotics]
 
 - 👨‍💻 All of my projects are available at [https://github.com/Xianjin-Wu](https://github.com/Xianjin-Wu)
 
