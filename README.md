@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I like joking and debugging!**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiXianjin-Wuanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
