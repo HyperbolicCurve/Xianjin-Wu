@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Computer Version](https://github.com/Xianjin-Wu/CNN_Learning)
 
-- 🌱 I’m currently learning **SmartCar,Robotics,CV**
+- 🌱 I’m currently learning **SmartCar, Robotics, CV, SLAM, Linux etc**
 
 - 👯 I’m looking to collaborate on [Smart Car](https://github.com/Xianjin-Wu/Smart_Car)
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.zhihu.com/people/wind-44-40-67](https://www.zhihu.com/people/wind-44-40-67)
 
-- 📫 How to reach me **wuxianjin@hust.edu,cn**
+- 📫 How to reach me **wuxianjin@hust.edu.cn**
 
 - ⚡ Fun fact **I like joking and debugging!**
 
