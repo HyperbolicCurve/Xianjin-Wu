@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Xianjin-Wu</h1>
-<h3 align="center">an undergraduate student in School of Artificial Intelligence and Automation, Huazhong University of Science and Technology.</h3>
+<h1 align="center">Hi 👋, I'm HyperbolicCurve</h1>
+<h3 align="center">Undergraduate student in the School of Artificial Intelligence and Automation, Huazhong University of Science and Technology.</h3>
 
 - 🔭 I’m currently working on [Computer Version](https://github.com/Xianjin-Wu/CNN_Learning)
 
